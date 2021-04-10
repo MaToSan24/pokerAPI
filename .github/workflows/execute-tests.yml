@@ -3,14 +3,12 @@ on: [push]
 jobs:
   execute-tests:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./pokerApi/
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      - run: ls
-      - run: cd pokerApi
-      - run: ls
       - run: npm install
-      - run: ls
       - run: npm install chai --save
-      - run: ls
       - run: npm test
