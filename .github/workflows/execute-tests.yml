@@ -1,0 +1,11 @@
+name: execute-tests
+on: [commit]
+jobs:
+  execute-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - run: cd .\pokerApi\
+      - run: npm install
+      - run: node test
