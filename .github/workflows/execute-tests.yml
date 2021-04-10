@@ -1,5 +1,5 @@
 name: execute-tests
-on: [commit]
+on: [push]
 jobs:
   execute-tests:
     runs-on: ubuntu-latest
