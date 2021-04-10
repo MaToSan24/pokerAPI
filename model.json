@@ -1,0 +1,116 @@
+[
+   {
+      "jugadas": [
+         {
+            "jugador": "Cristiano",
+            "apuesta": 1000,
+            "cartas": [
+               {
+                  "valor": "2",
+                  "palo": "H"
+               },
+               {
+                  "valor": "3",
+                  "palo": "D"
+               },
+               {
+                  "valor": "5",
+                  "palo": "S"
+               },
+               {
+                  "valor": "9",
+                  "palo": "C"
+               },
+               {
+                  "valor": "K",
+                  "palo": "D"
+               }
+            ]
+         },
+         {
+            "jugador": "Neymar",
+            "apuesta": 20000,
+            "cartas": [
+               {
+                  "valor": "2",
+                  "palo": "C"
+               },
+               {
+                  "valor": "3",
+                  "palo": "H"
+               },
+               {
+                  "valor": "4",
+                  "palo": "S"
+               },
+               {
+                  "valor": "8",
+                  "palo": "C"
+               },
+               {
+                  "valor": "A",
+                  "palo": "H"
+               }
+            ]
+         }
+      ],
+      "bote": "10000"
+   }, 
+   {
+      "jugadas": [
+         {
+            "jugador": "Cristiano",
+            "apuesta": 1000,
+            "cartas": [
+               {
+                  "valor": "2",
+                  "palo": "H"
+               },
+               {
+                  "valor": "3",
+                  "palo": "D"
+               },
+               {
+                  "valor": "5",
+                  "palo": "S"
+               },
+               {
+                  "valor": "9",
+                  "palo": "C"
+               },
+               {
+                  "valor": "K",
+                  "palo": "D"
+               }
+            ]
+         },
+         {
+            "jugador": "Neymar",
+            "apuesta": 20000,
+            "cartas": [
+               {
+                  "valor": "2",
+                  "palo": "C"
+               },
+               {
+                  "valor": "3",
+                  "palo": "H"
+               },
+               {
+                  "valor": "4",
+                  "palo": "S"
+               },
+               {
+                  "valor": "8",
+                  "palo": "C"
+               },
+               {
+                  "valor": "A",
+                  "palo": "H"
+               }
+            ]
+         }
+      ],
+      "bote": "10000"
+   }
+]

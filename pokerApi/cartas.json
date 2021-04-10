@@ -1,0 +1,264 @@
+    {
+    "cartas": [
+      {
+        "id": 1,
+        "valor": "A",
+        "palo": "H"
+      },
+      {
+        "id": 2,
+        "valor": "2",
+        "palo": "H"
+      },
+      {
+        "id": 3,
+        "valor": "3",
+        "palo": "H"
+      },
+      {
+        "id": 4,
+        "valor": "4",
+        "palo": "H"
+      },
+      {
+        "id": 5,
+        "valor": "5",
+        "palo": "H"
+      },
+      {
+        "id": 6,
+        "valor": "6",
+        "palo": "H"
+      },
+      {
+        "id": 7,
+        "valor": "7",
+        "palo": "H"
+      },
+      {
+        "id": 8,
+        "valor": "8",
+        "palo": "H"
+      },
+      {
+        "id": 9,
+        "valor": "9",
+        "palo": "H"
+      },
+      {
+        "id": 10,
+        "valor": "10",
+        "palo": "H"
+      },
+      {
+        "id": 11,
+        "valor": "J",
+        "palo": "H"
+      },
+      {
+        "id": 12,
+        "valor": "Q",
+        "palo": "H"
+      },
+      {
+        "id": 13,
+        "valor": "K",
+        "palo": "H"
+      },
+      {
+        "id": 14,
+        "valor": "A",
+        "palo": "D"
+      },
+      {
+        "id": 15,
+        "valor": "2",
+        "palo": "D"
+      },
+      {
+        "id": 16,
+        "valor": "3",
+        "palo": "D"
+      },
+      {
+        "id": 17,
+        "valor": "4",
+        "palo": "D"
+      },
+      {
+        "id": 18,
+        "valor": "5",
+        "palo": "D"
+      },
+      {
+        "id": 19,
+        "valor": "6",
+        "palo": "D"
+      },
+      {
+        "id": 20,
+        "valor": "7",
+        "palo": "D"
+      },
+      {
+        "id": 21,
+        "valor": "8",
+        "palo": "D"
+      },
+      {
+        "id": 22,
+        "valor": "9",
+        "palo": "D"
+      },
+      {
+        "id": 23,
+        "valor": "10",
+        "palo": "D"
+      },
+      {
+        "id": 24,
+        "valor": "J",
+        "palo": "D"
+      },
+      {
+        "id": 25,
+        "valor": "Q",
+        "palo": "D"
+      },
+      {
+        "id": 26,
+        "valor": "K",
+        "palo": "D"
+      },
+      {
+        "id": 27,
+        "valor": "A",
+        "palo": "S"
+      },
+      {
+        "id": 28,
+        "valor": "2",
+        "palo": "S"
+      },
+      {
+        "id": 29,
+        "valor": "3",
+        "palo": "S"
+      },
+      {
+        "id": 30,
+        "valor": "4",
+        "palo": "S"
+      },
+      {
+        "id": 31,
+        "valor": "5",
+        "palo": "S"
+      },
+      {
+        "id": 32,
+        "valor": "6",
+        "palo": "S"
+      },
+      {
+        "id": 33,
+        "valor": "7",
+        "palo": "S"
+      },
+      {
+        "id": 34,
+        "valor": "8",
+        "palo": "S"
+      },
+      {
+        "id": 35,
+        "valor": "9",
+        "palo": "S"
+      },
+      {
+        "id": 36,
+        "valor": "10",
+        "palo": "S"
+      },
+      {
+        "id": 37,
+        "valor": "J",
+        "palo": "S"
+      },
+      {
+        "id": 38,
+        "valor": "Q",
+        "palo": "S"
+      },
+      {
+        "id": 39,
+        "valor": "K",
+        "palo": "S"
+      },
+      {
+        "id": 40,
+        "valor": "A",
+        "palo": "C"
+      },
+      {
+        "id": 41,
+        "valor": "2",
+        "palo": "C"
+      },
+      {
+        "id": 42,
+        "valor": "3",
+        "palo": "C"
+      },
+      {
+        "id": 43,
+        "valor": "4",
+        "palo": "C"
+      },
+      {
+        "id": 44,
+        "valor": "5",
+        "palo": "C"
+      },
+      {
+        "id": 45,
+        "valor": "6",
+        "palo": "C"
+      },
+      {
+        "id": 46,
+        "valor": "7",
+        "palo": "C"
+      },
+      {
+        "id": 47,
+        "valor": "8",
+        "palo": "C"
+      },
+      {
+        "id": 48,
+        "valor": "9",
+        "palo": "C"
+      },
+      {
+        "id": 49,
+        "valor": "10",
+        "palo": "C"
+      },
+      {
+        "id": 50,
+        "valor": "J",
+        "palo": "C"
+      },
+      {
+        "id": 51,
+        "valor": "Q",
+        "palo": "C"
+      },
+      {
+        "id": 52,
+        "valor": "K",
+        "palo": "C"
+      }
+    ]
+  }
