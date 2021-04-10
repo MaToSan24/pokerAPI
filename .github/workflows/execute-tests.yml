@@ -8,4 +8,5 @@ jobs:
       - uses: actions/setup-node@v1
       - run: cd pokerApi
       - run: npm install
+      - run: npm install chai --save
       - run: npm test
